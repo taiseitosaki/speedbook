@@ -44,6 +44,13 @@ $ poetry run jupyter lab
 
 ※ノートブック作成にあたり再実行したので書籍の結果とわずかに異なる場合があります。ご了承ください。
 
+### 更新情報
+|箇所|説明|ファイル|内容|
+|:----|:----|:----|:----|
+|コード8.1|Pytorchプロファイラ|[profile.ipynb](https://github.com/taiseitosaki/speedbook/blob/main/notebooks/profile.ipynb)|Chrome trace viewerを用いたプロファイラのやり方と結果について追記|
+|コード8.2.2|Perf|[perf.ipynb](https://github.com/taiseitosaki/speedbook/blob/main/notebooks/perf.ipynb)|perfでのプロファイリングの実行例を追加|
+|コード8.3.2|NVIDIA Nsight|[nsys.ipynb](https://github.com/taiseitosaki/speedbook/blob/main/notebooks/nsys.ipynb)|Nsight Systemsを用いたResNet-50のプロファイリング実行とそのCUI確認例を追加|
+
 # 正誤表
 
 本書の正誤情報は[正誤表](https://github.com/joisino/speedbook/blob/main/errata.md)にて公開しています。
